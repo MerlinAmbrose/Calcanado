@@ -85,4 +85,5 @@ input[type="number"] {
 }
 .bttn {
   color:rgb(51, 43, 43);
+  -webkit-appearance: none;
 }

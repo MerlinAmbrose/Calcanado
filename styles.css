@@ -13,6 +13,7 @@
 }
 #large{
   width: 600px;
+  font-size: 90%;
 }
 .item1 {
   display: flex;
